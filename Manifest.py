@@ -4,5 +4,5 @@ files = [
     "./src/JTAG_Synchronizer.v", 
     "./src/JTAG_Memory.v", 
     "./src/Synchronizer.v", 
-    "./src/src/JTAG/synthesis/JTAG.v", 
+    "./src/JTAG/synthesis/JTAG.v", 
 ]
